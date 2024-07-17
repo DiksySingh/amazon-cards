@@ -1,0 +1,12 @@
+.Product {
+    background-color: cornflowerblue;
+    border: 2px solid yellow;
+    border-radius: 15px;
+    height: 200px;
+    width: 180px;
+    margin-left: 15px;
+}
+
+.container{
+    height:121px;
+}
